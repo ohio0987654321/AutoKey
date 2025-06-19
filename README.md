@@ -2,7 +2,7 @@
 
 AutoKey is a lightweight macOS application that simulates keyboard input at configurable intervals. It's designed for automating repetitive key presses in applications, games, or any scenario where continuous keyboard input is needed.
 
-![AutoKey Screenshot](screenshot.png)
+<img src="screenshot.png" alt="AutoKey Screenshot" width="400">
 
 ## Requirements
 
